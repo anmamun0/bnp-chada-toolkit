@@ -27,6 +27,15 @@ BNP-চাদা-project/
 ```
 
 
+## 📽️ Project Explanation Videos
+
+📌 **Uploaded on my Facebook Profile:** 🔗 [AN Mamun](https://www.facebook.com/share/v/1GtZkiuGYg/)
+
+📌 **Shared in Programming Bangladesh Group:** 🔗 [Programming Bangladesh](https://www.facebook.com/share/v/19feWvaVGb/)
+
+<br>
+<br>
+
 ---
 
 ## 📖 User Manual
